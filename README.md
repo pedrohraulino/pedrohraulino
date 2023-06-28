@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Estudante do Curso de BTI na UFERSA
+#HTML
+#CSS
+#JAVASCRIPT
+#C
 <!--
 **pedrohraulino/pedrohraulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
